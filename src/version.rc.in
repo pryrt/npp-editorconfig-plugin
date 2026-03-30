@@ -57,7 +57,7 @@ FONT 8, "MS Shell Dlg", 0, 0, 1
 {
     GROUPBOX        "EditorConfig plug-in", IDC_STATIC, 10, 9, 201, 93, BS_CENTER
     LTEXT           "Authors:", IDC_STATIC, 30, 23, 64, 8
-    LTEXT           "EditorConfig Team", IDC_STATIC, 100, 23, 106, 8
+    LTEXT           "EditorConfig Team (+pryrt)", IDC_STATIC, 100, 23, 106, 8
     LTEXT           "Plugin version:", IDC_STATIC, 30, 38, 64, 8
     LTEXT           VER_PRODUCTVERSION_STR, IDC_STATIC, 100, 38, 106, 8
     LTEXT           "Core-C version:", IDC_STATIC, 30, 53, 64, 8
